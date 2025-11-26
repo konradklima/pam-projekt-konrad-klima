@@ -1,0 +1,100 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Firebase
+# Keep firebase_options.dart as it's auto-generated per project
+# Comment this if you want to version it
+# lib/firebase_options.dart
+lib/firebase_options.dart
+.metadata
+analysis_output.txt
+
+# Sensitive files - IMPORTANT: Never commit these!
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+android/key.properties
+*.jks
+*.keystore
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Coverage
+coverage/
+
+# Test
+test/.test_coverage.dart
+
+# Environment
+.env
+.env.*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Hive database files (optional - usually you don't want these in git)
+*.hive
+*.lock
+
+# Configuration
+lib/config.dart
