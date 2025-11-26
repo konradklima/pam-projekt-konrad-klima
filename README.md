@@ -1,10 +1,4 @@
-# LORD OF THE RINGS - Kompendium Postaci Śródziemia
-
-Aplikacja mobilna **LORD OF THE RINGS** to interaktywne kompendium postaci z uniwersum Tolkiena. Zanurz się w mrocznym, eleganckim interfejsie inspirowanym królestwami Śródziemia i odkryj szczegóły o swoich ulubionych bohaterach - od elfich władców po hobbitów z Shire.
-
-## Opis Aplikacji
-
-LORD OF THE RINGS to zaawansowana aplikacja Flutter stworzona dla fanów dzieł J.R.R. Tolkiena. Aplikacja oferuje:
+# LORD OF THE RINGS
 
 ### Kluczowe Funkcjonalności
 
